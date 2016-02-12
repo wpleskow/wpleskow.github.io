@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title><h1>Will and Kian</h1></title></head>
+<body>
+<h2> California Kid's who grew up loveing the ocean</h2>
+<p>Will and Kian were both boring in the heart of central California <br> where the quickly found the love for the ocean and their passion for surfing big waves on Big Sur's California coast</p>
+<p> <b> <em> <h3> Will and Kians favorite surf spots </h3> </em></b> </p>
+<hr>
+<ul> <li>1. Mavericks</li>
+<li> 2. Steamer's Lane </li>
+</ul>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/2010_mavericks_competition.jpg" alt="Maverick on a big day">
+</p>
+<p>
+<img src="/Users/seanpleskow/Desktop/will-surf.png" alt="local photo">
+</p>
+<p>
+<a href="http://www.surfline.com/home/index.cfm">Best surf website on the web </a>
+</p>
+</body>
+</html>
